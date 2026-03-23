@@ -1,4 +1,4 @@
-## Certificate Status (Updated at 2026-03-22 23:54:19)
+## Certificate Status (Updated at 2026-03-23 23:57:35)
 | Domain | Expiry Date (EC) | Issuer (EC) | Expiry Date (RSA) | Issuer (RSA) |
 |--------|------------------|-------------|-------------------|--------------|
-| wanghao.cf | Apr 22 06:02:20 2026 GMT |  O = Let's Encrypt | Apr 22 06:02:24 2026 GMT |  O = Let's Encrypt |
+| wanghao.cf | Jun 21 06:46:50 2026 GMT |  O = Let's Encrypt | Jun 21 06:46:55 2026 GMT |  O = Let's Encrypt |
